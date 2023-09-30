@@ -17,7 +17,7 @@
 
     Java Programming.
 
-<h1 >ABOUT This Application</h1>
+<h1 >About This Application</h1>
 
   1) This project provides the chatting facility for pear to pear communication.
   
